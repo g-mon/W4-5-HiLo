@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameManager()
+comment1.params=h
+comment1.target=java.lang.String\ guess1(int)
+comment2.params=h
+comment2.target=java.lang.String\ guess2(int)
+comment3.params=h
+comment3.target=java.lang.String\ guess3(int)
+comment4.params=
+comment4.target=int\ av()
+comment5.params=
+comment5.target=void\ vsComp()
+numComments=6
